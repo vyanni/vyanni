@@ -1,6 +1,6 @@
 ## Welcome!
 
-Hey there, my name is Vianney Susanto and I'm currently a student at the University of Waterloo for Systems Design Engineering!
+Hey there, my name is Vianney and I'm currently a student at the University of Waterloo for Systems Design Engineering!
 
 Welcome to my profile, and feel free to take a look around my profile and all my projects that I've worked on along the years!
 
