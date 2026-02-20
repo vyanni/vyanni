@@ -1,14 +1,15 @@
 
 ## Welcome!
 
-- Hey there, my name is Vianney 
+- Hey there, my name is Vianney!
 
-- I'm currently a student at the <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" height="15" alt="Waterloo Seal"  />University of Waterloo for Systems Design Engineering!
-- Welcome to my profile, and feel free to take a look around all my repositories and see all my projects that I've worked on along the years!
+<li> Student at the <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" height="15" alt="Waterloo Seal"  />University of Waterloo for Systems Design Engineering!</li>
+<li> Working on learning art </li>
+<li> Currently on my co-op in Toronto! </li>
+
+### Welcome to my profile, and feel free to take a look around all my repositories and see all my projects that I've worked on along the years!
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvyanni"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fvyanni&label=Visitors!&labelColor=%23f5efd7&countColor=%23d19e9e&labelStyle=upper" /></a>
-
-<h3 align="left">My Programming Languages!</h3>
 
 ###
 
