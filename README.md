@@ -1,4 +1,4 @@
-<div style="background-color: '#f5efd7'">
+<div style="color: '#f5efd7'">
   
 ## Welcome!
 
