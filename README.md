@@ -14,10 +14,13 @@ Hey there, my name is Vianney!
 <br>
 Welcome to my profile, and feel free to take a look around all my repositories and see all my projects that I've worked on along the years!
 <br>
+
+<div align
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvyanni"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fvyanni&label=Visitors!&labelColor=%23f5efd7&countColor=%23d19e9e&labelStyle=upper" /></a>
 
 #####
 
-<div align="center">
+<!--<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vyanni&theme=travelers-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" alt="GitHub Streak" /></a>
-</div>
+</div>-->
+
