@@ -5,19 +5,17 @@ Hey there, my name is Vianney!
 
   <div>
     <ul>
-      <li> Student at the <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" height="15" alt="Waterloo Seal"  />University of Waterloo for Systems Design Engineering!</li>
+      <li> Student at the <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" height="13" alt="Waterloo Seal"  />University of Waterloo for Systems Design Engineering!</li>
       <li> Working on learning art :D </li>
-      <li> Currently on my co-op in Toronto! <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Maple_leaf_transparent.png" height="15" alt="Maple Leaf"  /></li>
+      <li> Currently on my co-op in Toronto! <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Maple_leaf_transparent.png" height="13" alt="Maple Leaf"  /></li>
     </ul>
   </div>
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvyanni"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fvyanni&label=Visitors!&labelColor=%23f5efd7&countColor=%23d19e9e&labelStyle=upper" /></a>
 
 <br>
 Welcome to my profile, and feel free to take a look at my projects that I've worked on along the years!
 <br>
-
-<div align = "center">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvyanni"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fvyanni&label=Visitors!&labelColor=%23f5efd7&countColor=%23d19e9e&labelStyle=upper" /></a>
-</div>
 
 #####
 
