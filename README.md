@@ -4,9 +4,11 @@
 Hey there, my name is Vianney!
 
   <div>
-    \t<li> Student at the <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" height="15" alt="Waterloo Seal"  />University of Waterloo for Systems Design Engineering!</li>
-    \t<li> Working on learning art </li>
-    \t<li> Currently on my co-op in Toronto! </li>
+    <ul>
+      <li> Student at the <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" height="15" alt="Waterloo Seal"  />University of Waterloo for Systems Design Engineering!</li>
+      <li> Working on learning art </li>
+      <li> Currently on my co-op in Toronto! </li>
+    </ul>
   </div>
 
 <br>
