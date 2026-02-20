@@ -1,3 +1,4 @@
+<div background-color = '#f5efd7'>
 ## Welcome!
 
 - Hey there, my name is Vianney 
@@ -28,3 +29,4 @@
   <img width="12" />
 </div>
 
+</div>
